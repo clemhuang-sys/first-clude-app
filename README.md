@@ -4,6 +4,8 @@ A static, zero-dependency to-do list web app. Pure HTML + CSS + vanilla JS — n
 
 **Live site:** https://clemhuang-sys.github.io/first-clude-app/
 
+![TodayStack screenshot](todaystack-live.png)
+
 ## Features
 
 - Add, complete, and delete tasks
