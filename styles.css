@@ -55,6 +55,14 @@ body {
   z-index: -1;
 }
 
+.hero-thumb {
+  text-align: center;
+  font-size: 48px;
+  margin-bottom: 12px;
+  line-height: 1;
+  filter: drop-shadow(0 0 18px rgba(56, 189, 248, 0.5));
+}
+
 .app-header {
   display: flex;
   align-items: center;
