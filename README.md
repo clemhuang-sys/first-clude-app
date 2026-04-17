@@ -1,5 +1,7 @@
 # TodayStack
 
+![TodayStack screenshot](screenshot.png)
+
 A static, zero-dependency to-do list web app. Pure HTML + CSS + vanilla JS — no framework, no bundler, no package manager. Tasks autosave to `localStorage` under the key `modern_todo_tasks_v1`, so your list survives a refresh. Hosted on GitHub Pages.
 
 **Live site:** https://clemhuang-sys.github.io/first-clude-app/
